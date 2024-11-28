@@ -38,7 +38,7 @@ Bu uygulamada kullanılan temel teknolojiler:
 ### 1. Proje Deposu  
 Uygulamayı klonlayın ve proje dizinine gidin:  
 ```bash
-git clone https://github.com/username/LearnConnect.git
+git clone https://github.com/tugceergun/LearnConnect.git
 cd LearnConnect
 ```
 
