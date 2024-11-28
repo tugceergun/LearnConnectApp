@@ -58,4 +58,4 @@ https://github.com/user-attachments/assets/f403f79e-17b4-4108-9112-f9119f9efd9c
 
 ## 📄 Lisans  
 Bu proje [MIT Lisansı](LICENSE) ile lisanslanmıştır.  
-```
+
