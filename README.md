@@ -29,7 +29,8 @@ Bu uygulamada kullanılan temel teknolojiler:
 - **ExoPlayer:** Video oynatma özelliği.  
 - **MVVM Mimarisi:** Daha iyi kod düzeni ve test edilebilirlik için.  
 - **Dagger-Hilt:** Bağımlılık yönetimi.  
-- **Material3 Design:** Karanlık ve aydınlık tema desteği.  
+- **Material3 Design:** Karanlık ve aydınlık tema desteği.
+- **Firebase:** Login işlemleri.
 
 ---
 
